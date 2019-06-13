@@ -1,2 +1,2 @@
 # Programming-Under-Pressure
-A series of problems solved in a competitive programming course
+Programming exercises solved in a competitive programming course at KTH. The names of the folders are the problem titles in Kattis.
